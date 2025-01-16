@@ -4,3 +4,5 @@ console.log("Learn JS for JS Framework! : " +
     "- Vue JS" +
     "- AngularJS"
 );
+
+console.log("============= Thanks ==============");
